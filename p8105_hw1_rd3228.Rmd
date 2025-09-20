@@ -2,7 +2,7 @@
 title: "p8105_hw1_rd3228"
 author: "Renxuan Deng"
 date: "2025-09-20"
-output: html_document
+output: github_document
 ---
 
 # Problem 1  
